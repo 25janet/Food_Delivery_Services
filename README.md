@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Services — Microservices & DevOps Project
+#  Food Delivery Services — Microservices & DevOps Project
 
 A production-style **food delivery platform** designed and deployed as a **microservices-based application**, with a strong focus on **DevOps, automation, containerization, cloud infrastructure, CI/CD, Kubernetes, and observability**.
 
@@ -6,7 +6,7 @@ This project is being built as a hands-on learning and portfolio project to demo
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 The goal is to build a food delivery platform composed of independently deployable services and progressively implement a complete DevOps workflow around it.
 
@@ -18,7 +18,7 @@ The focus is not only on building the application, but on understanding **how to
 
 ---
 
-## 🏗️ Planned Architecture
+##  Planned Architecture
 
 The platform will initially consist of several independent microservices:
 
@@ -64,7 +64,7 @@ The platform will initially consist of several independent microservices:
 
 ---
 
-## 🧩 Planned Microservices
+##  Planned Microservices
 
 | Service              | Responsibility                                 |
 | -------------------- | ---------------------------------------------- |
@@ -80,7 +80,7 @@ Additional services may be introduced if they provide a clear architectural or D
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Application
 
@@ -159,7 +159,7 @@ Additional services may be introduced if they provide a clear architectural or D
 
 ---
 
-## 🚀 DevOps Workflow
+##  DevOps Workflow
 
 The intended workflow is:
 
@@ -216,7 +216,7 @@ Terraform
 
 ---
 
-## 📚 Project Learning Objectives
+##  Project Learning Objectives
 
 Through this project, the following areas will be explored:
 
@@ -246,7 +246,7 @@ Through this project, the following areas will be explored:
 
 ---
 
-## 🗺️ Development Roadmap
+##  Development Roadmap
 
 The project will be developed incrementally.
 
@@ -373,7 +373,7 @@ The project will be developed incrementally.
 
 ---
 
-## 📂 Planned Repository Structure
+##  Planned Repository Structure
 
 ```text
 food-delivery-services/
@@ -411,7 +411,7 @@ The structure will be refined as the architecture develops.
 
 ---
 
-## 🧠 Engineering Approach
+##  Engineering Approach
 
 This project will follow a **build → test → automate → deploy → monitor → improve** approach.
 
@@ -441,7 +441,7 @@ Security & Hardening
 
 ---
 
-## 📖 Documentation
+##  Documentation
 
 Detailed documentation will be maintained in the `docs/` directory.
 
